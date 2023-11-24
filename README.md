@@ -38,6 +38,7 @@ O projeto foi desenvolvido de forma modularizada, então apenas rodar o comando 
 
 Para isso, foi anexado juntamente do repositorio, um *launch.json* com todas as configurações de execução, basta selecionar o ambiente desejado e executar.
 
+Atualmente, somente o ambiente de DEV (Desenvolvimento) e HMG (Homologação) estão disponiveis para teste, o ambiente de DEV está com os dados mockados e o ambiente de HMG está integrado com o backend.
 
 ## 🛠️ Construído com
 
