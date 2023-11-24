@@ -1,0 +1,28 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_unused_constructor_parameters: true
+    directives_ordering: true
+    library_private_types_in_public_api: false
+    prefer_const_constructors: true
+    prefer_if_null_operators: true
+    prefer_relative_imports: true
+    sized_box_for_whitespace: true
+    sort_child_properties_last: true
+    sort_constructors_first: true
+    sort_unnamed_constructors_first: true
+    unnecessary_parenthesis: true
+    unnecessary_string_interpolations: true
+    unnecessary_to_list_in_spreads: true
+    use_key_in_widget_constructors: false
+    use_late_for_private_fields_and_variables: true
+    use_super_parameters: true
+    prefer_single_quotes: true
+    unnecessary_await_in_return: true
+    prefer_final_locals: true
+    prefer_final_fields: true
+    always_declare_return_types: true
+    require_trailing_commas: true
+    unnecessary_lambdas: true
+    avoid_void_async: true

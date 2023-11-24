@@ -1,0 +1,41 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "green-eats-flutter - Dev",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_dev.dart",
+            "args": [
+                "--web-port",
+                "8000",
+                "--web-renderer",
+                "html"
+            ]
+        },
+        {
+            "name": "green-eats-flutter - Hmg",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_hmg.dart",
+            "args": [
+                "--web-port",
+                "8000",
+                "--web-renderer",
+                "html"
+            ]
+        },
+        {
+            "name": "green-eats-flutter - Prod",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_prod.dart",
+            "args": [
+                "--web-port",
+                "8000",
+                "--web-renderer",
+                "html"
+            ]
+        }
+    ]
+}
