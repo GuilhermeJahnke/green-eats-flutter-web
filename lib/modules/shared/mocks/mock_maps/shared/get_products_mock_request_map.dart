@@ -12,7 +12,7 @@ class GetProductsMockMap {
       'price': 23.54,
       'weight': 0.200,
       'discount': 10,
-      'imagePath':
+      'image_url':
           'https://img.freepik.com/vetores-gratis/ilustracao-de-preparacao-de-refeicao-de-design-plano-desenhado-a-mao_23-2149350982.jpg',
     },
     {
@@ -23,7 +23,7 @@ class GetProductsMockMap {
       'price': 23.54,
       'weight': 0.200,
       'discount': 10,
-      'imagePath':
+      'image_url':
           'https://img.freepik.com/vetores-gratis/ilustracao-de-comida-kawaii-desenhada-a-mao_52683-84890.jpg',
     },
     {
@@ -34,7 +34,7 @@ class GetProductsMockMap {
       'price': 23.54,
       'weight': 0.200,
       'discount': 10,
-      'imagePath':
+      'image_url':
           'https://img.freepik.com/vetores-premium/ilustracao-da-caixa-de-bento-desenhada-a-mao_23-2148845283.jpg',
     }
   ];
